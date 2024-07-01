@@ -35,7 +35,7 @@ const handler = async (request: Request): Promise<Response> => {
       const responseHTML = `
         <html>
           <body>
-            <p>URL generated: <a href="/${path}">https://fenixcoderx-test-deno-d-96.deno.dev/${path}</a></p>
+            <p>URL generated: <a href="/${path}">https://fenixcoderx-test-deno-d-34.deno.dev/${path}</a></p>
           </body>
         </html>
       `;
